@@ -1,1 +1,2 @@
 b text file
+hi im 0002
